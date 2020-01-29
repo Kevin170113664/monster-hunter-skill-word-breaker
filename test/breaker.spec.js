@@ -84,4 +84,12 @@ describe('breaker', () => {
       }
     ])
   })
+
+  test('should be able to ignore unrecognized skill', () => {
+    const input = '看破弱特超心'
+
+    const result = Breaker.break(input)
+
+    expect(result).toEqual([])
+  })
 })
