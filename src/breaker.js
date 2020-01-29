@@ -3,10 +3,11 @@ import skills from '../data/skills'
 
 const findSkill = (skillText) => {
   return _.find(skills, (skill) => {
-    return skill['zh-hans'] === skillText ||
-      skill['zh-hant'] === skillText ||
-      skill['en'] === skillText ||
-      skill['jp'] === skillText
+    let skillTexts = [skill['zh-hans'], skill['zh-hant'], skill['en'], skill['jp']]
+    if (skill.hasOwnProperty('alias')) {
+      skillTexts = [...skillTexts, ...skill.alias]
+    }
+    return _.includes(skillTexts, skillText)
   })
 }
 
