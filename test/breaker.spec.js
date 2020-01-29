@@ -1,8 +1,25 @@
 import Breaker from '../src/breaker'
 
 describe('breaker', () => {
-  test('should be able to recognize Chinese skill name and its skill level', () => {
+  test('should be able to recognize simplify Chinese skill name and its skill level', () => {
     const input = '看破7'
+
+    const result = Breaker.break(input)
+
+    expect(result).toEqual([
+      {
+        'id': 42,
+        'en': 'Critical Eye',
+        'jp': '見切り',
+        'zh-hans': '看破',
+        'zh-hant': '看破',
+        'level': 7
+      }
+    ])
+  })
+
+  test('should be able to recognize Japanese skill name and its skill level', () => {
+    const input = '見切り7'
 
     const result = Breaker.break(input)
 

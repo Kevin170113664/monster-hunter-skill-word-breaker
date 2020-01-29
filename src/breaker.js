@@ -1,12 +1,21 @@
 import _ from 'lodash'
 import skills from '../data/skills'
 
+const findSkill = (skillText) => {
+  return _.find(skills, (skill) => {
+    return skill['zh-hans'] === skillText ||
+      skill['zh-hant'] === skillText ||
+      skill['en'] === skillText ||
+      skill['jp'] === skillText
+  })
+}
+
 const Breaker = {
   break: (input) => {
     const skillTexts = _.split(input, ' ')
 
     const parsedSkills = _.map(skillTexts, singleSkillText => {
-      const skill = _.find(skills, {'zh-hans': singleSkillText.replace(/[0-9]/g, '')})
+      const skill = findSkill(singleSkillText.replace(/[0-9]/g, ''))
       if (!skill) {
         return
       }
