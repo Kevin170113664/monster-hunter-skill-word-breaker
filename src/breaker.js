@@ -8,7 +8,7 @@ const Breaker = {
 
     return _.map(skillTexts, singleSkillText => {
       const skill = _.find(skills, {'zh-hans': singleSkillText.replace(/[0-9]/g, '')})
-      const inputLevel = Number(singleSkillText.match(/\d+/)[0])
+      const inputLevel = Number(_.get(singleSkillText.match(/\d+/), [0], 1))
       const level = inputLevel > skill.maxLevel ? skill.maxLevel : inputLevel
       return {
         level,
