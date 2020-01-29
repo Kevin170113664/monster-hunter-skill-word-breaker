@@ -6,7 +6,16 @@ describe('breaker', () => {
 
     const result = Breaker.break(input)
 
-    expect(result).toEqual({'看破': 7})
+    expect(result).toEqual([
+      {
+        'id': 42,
+        'en': 'Critical Eye',
+        'jp': '見切り',
+        'zh-hans': '看破',
+        'zh-hant': '看破',
+        'level': 7
+      }
+    ])
   });
 
   test('should be able to recognize multiple skills with space separator', () => {
@@ -14,6 +23,48 @@ describe('breaker', () => {
 
     const result = Breaker.break(input)
 
-    expect(result).toEqual({'看破': 7, '弱点特效': 3, '超会心': 3})
+    expect(result).toEqual([
+      {
+        'id': 42,
+        'en': 'Critical Eye',
+        'jp': '見切り',
+        'zh-hans': '看破',
+        'zh-hant': '看破',
+        'level': 7
+      },
+      {
+        "id": 44,
+        "en": "Weakness Exploit",
+        "jp": "弱点特効",
+        "zh-hans": "弱点特效",
+        "zh-hant": "弱點特效",
+        "level": 3
+      },
+      {
+        "id": 43,
+        "en": "Critical Boost",
+        "jp": "超会心",
+        "zh-hans": "超会心",
+        "zh-hant": "超會心",
+        "level": 3
+      }
+    ])
+  });
+
+  test('should not breakthrough the max level', () => {
+    const input = '攻击10'
+
+    const result = Breaker.break(input)
+
+    expect(result).toEqual([
+      {
+        "id": 14,
+        "en": "Attack Boost",
+        "jp": "攻撃",
+        "zh-hans": "攻击",
+        "zh-hant": "攻擊",
+        "level": 7
+      }
+    ])
   });
 })
