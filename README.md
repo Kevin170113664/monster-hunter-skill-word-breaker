@@ -3,6 +3,17 @@
 * This is a small util to help hunters(programmers) on skill selection.
 * skill alias is keep updating, feel free to tell me some popular alias.
 
+## Install
+npm
+```shell script
+$ npm i monster-hunter-skill-word-breaker
+```
+
+yarn
+```shell script
+$ yarn add monster-hunter-skill-word-breaker
+```
+
 ## Functionality
 
 ### Parse text to skills

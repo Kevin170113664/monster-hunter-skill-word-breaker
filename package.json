@@ -1,16 +1,17 @@
 {
   "name": "monster-hunter-skill-word-breaker",
-  "version": "0.0.0",
-  "private": true,
+  "version": "1.0.6",
   "scripts": {
+    "prepublish": "babel src --out-dir lib",
     "test": "jest"
   },
   "dependencies": {
-    "jest": "^25.1.0",
     "lodash": "^4.17.15"
   },
   "devDependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/core": "^7.8.3",
     "@babel/preset-env": "^7.8.3",
-    "babel-jest": "^25.1.0"
+    "jest": "^25.1.0"
   }
 }
