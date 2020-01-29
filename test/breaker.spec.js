@@ -1,3 +1,4 @@
+import _ from 'lodash'
 import Breaker from '../src/breaker'
 
 describe('breaker', () => {
@@ -139,6 +140,20 @@ describe('breaker', () => {
     const input = '看破弱特超心'
 
     const result = Breaker.break(input)
+
+    expect(result).toEqual([])
+  })
+})
+
+describe('skill data', () => {
+  test('should not have duplicate alias', () => {
+    const skills = Breaker.getSkills()
+    const result = _.chain(skills)
+      .map(({alias}) => alias)
+      .flatten()
+      .filter((val, i, iteratee) => _.includes(iteratee, val, i + 1))
+      .compact()
+      .value()
 
     expect(result).toEqual([])
   })

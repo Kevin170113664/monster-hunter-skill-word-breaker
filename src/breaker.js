@@ -12,6 +12,7 @@ const findSkill = (skillText) => {
 }
 
 const Breaker = {
+  getSkills: () => skills,
   break: (input) => {
     const skillTexts = _.split(input, ' ')
 
