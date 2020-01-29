@@ -1,9 +1,16 @@
+import _ from 'lodash'
+
 const Breaker = {
   break: (input) => {
-    const skillLevel = Number(input.match(/\d+/)[0])
-    const skillName = input.replace(/[0-9]/g, '')
-
-    return {[skillName]: skillLevel}
+    return _.chain(input)
+      .split(' ')
+      .map(skill => ({
+        skillName: skill.replace(/[0-9]/g, ''),
+        skillLevel: Number(skill.match(/\d+/)[0])
+      }))
+      .keyBy('skillName')
+      .mapValues(({skillLevel}) => skillLevel)
+      .value()
   }
 }
 
