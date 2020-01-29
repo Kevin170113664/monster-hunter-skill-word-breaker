@@ -1,0 +1,12 @@
+{
+  "name": "monster-hunter-skill-word-breaker",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^25.1.0",
+    "lodash": "^4.17.15"
+  }
+}
