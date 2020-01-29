@@ -1,0 +1,1506 @@
+[
+  {
+    "id": 0,
+    "en": "Poison Resistance",
+    "jp": "毒耐性",
+    "zh-hans": "毒耐性",
+    "zh-hant": "毒耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 1,
+    "en": "Paralysis Resistance",
+    "jp": "麻痺耐性",
+    "zh-hans": "麻痹耐性",
+    "zh-hant": "麻痺耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 2,
+    "en": "Sleep Resistance",
+    "jp": "睡眠耐性",
+    "zh-hans": "睡眠耐性",
+    "zh-hant": "睡眠耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 3,
+    "en": "Stun Resistance",
+    "jp": "気絶耐性",
+    "zh-hans": "昏厥耐性",
+    "zh-hant": "昏厥耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 4,
+    "en": "Muck Resistance",
+    "jp": "泥耐性",
+    "zh-hans": "泥耐性",
+    "zh-hant": "泥耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 5,
+    "en": "Blast Resistance",
+    "jp": "爆破やられ耐性",
+    "zh-hans": "爆破异常状态的耐性",
+    "zh-hant": "爆破異常狀態的耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 6,
+    "en": "Bleeding Resistance",
+    "jp": "裂傷耐性",
+    "zh-hans": "裂伤耐性",
+    "zh-hant": "裂傷耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 7,
+    "en": "Iron Skin",
+    "jp": "防御力ＤＯＷＮ耐性",
+    "zh-hans": "防御力下降耐性",
+    "zh-hant": "防禦力DOWN耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 8,
+    "en": "Earplugs",
+    "jp": "耳栓",
+    "zh-hans": "耳塞",
+    "zh-hant": "耳塞",
+    "maxLevel": 0
+  },
+  {
+    "id": 9,
+    "en": "Windproof",
+    "jp": "風圧耐性",
+    "zh-hans": "风压耐性",
+    "zh-hant": "風壓耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 10,
+    "en": "Tremor Resistance",
+    "jp": "耐震",
+    "zh-hans": "耐震",
+    "zh-hant": "耐震",
+    "maxLevel": 0
+  },
+  {
+    "id": 11,
+    "en": "Dungmaster",
+    "jp": "こやし名人",
+    "zh-hans": "异臭名人",
+    "zh-hant": "異臭名人",
+    "maxLevel": 0
+  },
+  {
+    "id": 12,
+    "en": "Effluvial Expert",
+    "jp": "瘴気環境適応",
+    "zh-hans": "适应瘴气环境",
+    "zh-hant": "適應瘴氣環境",
+    "maxLevel": 0
+  },
+  {
+    "id": 13,
+    "en": "Heat Guard",
+    "jp": "熱ダメージ無効",
+    "zh-hans": "热伤害无效",
+    "zh-hant": "熱傷害無效",
+    "maxLevel": 0
+  },
+  {
+    "id": 14,
+    "en": "Attack Boost",
+    "jp": "攻撃",
+    "zh-hans": "攻击",
+    "zh-hant": "攻擊",
+    "maxLevel": 0
+  },
+  {
+    "id": 15,
+    "en": "Defense Boost",
+    "jp": "防御",
+    "zh-hans": "防御",
+    "zh-hant": "防禦",
+    "maxLevel": 0
+  },
+  {
+    "id": 16,
+    "en": "Health Boost",
+    "jp": "体力増強",
+    "zh-hans": "体力增强",
+    "zh-hant": "體力增強",
+    "maxLevel": 0
+  },
+  {
+    "id": 17,
+    "en": "Recovery Up",
+    "jp": "体力回復量ＵＰ",
+    "zh-hans": "体力回复量上升",
+    "zh-hant": "體力回復量UP",
+    "maxLevel": 0
+  },
+  {
+    "id": 18,
+    "en": "Recovery Speed",
+    "jp": "回復速度",
+    "zh-hans": "回复速度",
+    "zh-hant": "回復速度",
+    "maxLevel": 0
+  },
+  {
+    "id": 19,
+    "en": "Fire Resistance",
+    "jp": "火耐性",
+    "zh-hans": "火耐性",
+    "zh-hant": "火耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 20,
+    "en": "Water Resistance",
+    "jp": "水耐性",
+    "zh-hans": "水耐性",
+    "zh-hant": "水耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 21,
+    "en": "Ice Resistance",
+    "jp": "氷耐性",
+    "zh-hans": "冰耐性",
+    "zh-hant": "冰耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 22,
+    "en": "Thunder Resistance",
+    "jp": "雷耐性",
+    "zh-hans": "雷耐性",
+    "zh-hant": "雷耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 23,
+    "en": "Dragon Resistance",
+    "jp": "龍耐性",
+    "zh-hans": "龙耐性",
+    "zh-hant": "龍耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 24,
+    "en": "Blight Resistance",
+    "jp": "属性やられ耐性",
+    "zh-hans": "属性异常状态的耐性",
+    "zh-hant": "屬性異常狀態的耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 25,
+    "en": "Fire Attack",
+    "jp": "火属性攻撃強化",
+    "zh-hans": "火属性攻击强化",
+    "zh-hant": "火屬性攻擊強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 26,
+    "en": "Water Attack",
+    "jp": "水属性攻撃強化",
+    "zh-hans": "水属性攻击强化",
+    "zh-hant": "水屬性攻擊強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 27,
+    "en": "Ice Attack",
+    "jp": "氷属性攻撃強化",
+    "zh-hans": "冰属性攻击强化",
+    "zh-hant": "冰屬性攻擊強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 28,
+    "en": "Thunder Attack",
+    "jp": "雷属性攻撃強化",
+    "zh-hans": "雷属性攻击强化",
+    "zh-hant": "雷屬性攻擊強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 29,
+    "en": "Dragon Attack",
+    "jp": "龍属性攻撃強化",
+    "zh-hans": "龙属性攻击强化",
+    "zh-hant": "龍屬性攻擊強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 30,
+    "en": "Poison Attack",
+    "jp": "毒属性強化",
+    "zh-hans": "毒属性强化",
+    "zh-hant": "毒屬性強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 31,
+    "en": "Paralysis Attack",
+    "jp": "麻痺属性強化",
+    "zh-hans": "麻痹属性强化",
+    "zh-hant": "麻痺屬性強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 32,
+    "en": "Sleep Attack",
+    "jp": "睡眠属性強化",
+    "zh-hans": "睡眠属性强化",
+    "zh-hant": "睡眠屬性強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 33,
+    "en": "Blast Attack",
+    "jp": "爆破属性強化",
+    "zh-hans": "爆破属性强化",
+    "zh-hant": "爆破屬性強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 34,
+    "en": "Normal Shots",
+    "jp": "通常弾・通常矢強化",
+    "zh-hans": "通常弹与通常箭强化",
+    "zh-hant": "通常彈‧通常箭強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 35,
+    "en": "Piercing Shots",
+    "jp": "貫通弾・竜の​​​​‍‍‏一矢強化",
+    "zh-hans": "贯通弹与龙之箭强化",
+    "zh-hant": "貫通彈‧龍之箭強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 36,
+    "en": "Spread/Power Shots",
+    "jp": "散弾・剛射強化",
+    "zh-hans": "散弹·刚射强化",
+    "zh-hant": "散彈‧剛射強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 37,
+    "en": "Poison Functionality",
+    "jp": "毒ビン追加",
+    "zh-hans": "毒瓶追加",
+    "zh-hant": "毒瓶追加",
+    "maxLevel": 0
+  },
+  {
+    "id": 38,
+    "en": "Para Functionality",
+    "jp": "麻痺ビン追加",
+    "zh-hans": "麻痹瓶追加",
+    "zh-hant": "麻痺瓶追加",
+    "maxLevel": 0
+  },
+  {
+    "id": 39,
+    "en": "Sleep Functionality",
+    "jp": "睡眠ビン追加",
+    "zh-hans": "睡眠瓶追加",
+    "zh-hant": "睡眠瓶追加",
+    "maxLevel": 0
+  },
+  {
+    "id": 40,
+    "en": "Blast Functionality",
+    "jp": "爆破ビン追加",
+    "zh-hans": "爆破瓶追加",
+    "zh-hant": "爆破瓶追加",
+    "maxLevel": 0
+  },
+  {
+    "id": 41,
+    "en": "Free Elem/Ammo Up",
+    "jp": "属性解放／装填拡張",
+    "zh-hans": "属性解放／装填扩充",
+    "zh-hant": "屬性解放／裝填擴充",
+    "maxLevel": 0
+  },
+  {
+    "id": 42,
+    "en": "Critical Eye",
+    "jp": "見切り",
+    "zh-hans": "看破",
+    "zh-hant": "看破",
+    "maxLevel": 0
+  },
+  {
+    "id": 43,
+    "en": "Critical Boost",
+    "jp": "超会心",
+    "zh-hans": "超会心",
+    "zh-hant": "超會心",
+    "maxLevel": 0
+  },
+  {
+    "id": 44,
+    "en": "Weakness Exploit",
+    "jp": "弱点特効",
+    "zh-hans": "弱点特效",
+    "zh-hant": "弱點特效",
+    "maxLevel": 0
+  },
+  {
+    "id": 45,
+    "en": "Focus",
+    "jp": "集中",
+    "zh-hans": "集中",
+    "zh-hant": "集中",
+    "maxLevel": 0
+  },
+  {
+    "id": 46,
+    "en": "Power Prolonger",
+    "jp": "強化持続",
+    "zh-hans": "强化持续",
+    "zh-hant": "強化持續",
+    "maxLevel": 0
+  },
+  {
+    "id": 47,
+    "en": "Handicraft",
+    "jp": "匠",
+    "zh-hans": "匠",
+    "zh-hant": "匠",
+    "maxLevel": 0
+  },
+  {
+    "id": 48,
+    "en": "Critical Draw",
+    "jp": "抜刀術【技】",
+    "zh-hans": "拔刀术【技】",
+    "zh-hant": "拔刀術【技】",
+    "maxLevel": 0
+  },
+  {
+    "id": 49,
+    "en": "Partbreaker",
+    "jp": "破壊王",
+    "zh-hans": "破坏王",
+    "zh-hant": "破壞王",
+    "maxLevel": 0
+  },
+  {
+    "id": 50,
+    "en": "Slugger",
+    "jp": "ＫＯ術",
+    "zh-hans": "击晕术",
+    "zh-hant": "KO術",
+    "maxLevel": 0
+  },
+  {
+    "id": 51,
+    "en": "Stamina Thief",
+    "jp": "スタミナ奪取",
+    "zh-hans": "夺取耐力",
+    "zh-hant": "奪取耐力",
+    "maxLevel": 0
+  },
+  {
+    "id": 52,
+    "en": "Master Mounter",
+    "jp": "乗り名人",
+    "zh-hans": "骑乘名人",
+    "zh-hant": "騎乘名人",
+    "maxLevel": 0
+  },
+  {
+    "id": 53,
+    "en": "Airborne",
+    "jp": "飛燕",
+    "zh-hans": "飞燕",
+    "zh-hant": "飛燕",
+    "maxLevel": 0
+  },
+  {
+    "id": 54,
+    "en": "Latent Power",
+    "jp": "力の​​​​‍‍‏解放",
+    "zh-hans": "力量解放",
+    "zh-hant": "力量解放",
+    "maxLevel": 0
+  },
+  {
+    "id": 55,
+    "en": "Agitator",
+    "jp": "挑戦者",
+    "zh-hans": "挑战者",
+    "zh-hant": "挑戰者",
+    "maxLevel": 0
+  },
+  {
+    "id": 56,
+    "en": "Peak Performance",
+    "jp": "フルチャージ",
+    "zh-hans": "无伤",
+    "zh-hant": "無傷",
+    "maxLevel": 0
+  },
+  {
+    "id": 57,
+    "en": "Heroics",
+    "jp": "火事場力",
+    "zh-hans": "火场怪力",
+    "zh-hant": "火場怪力",
+    "maxLevel": 0
+  },
+  {
+    "id": 58,
+    "en": "Fortify",
+    "jp": "不屈",
+    "zh-hans": "不屈",
+    "zh-hant": "不屈",
+    "maxLevel": 0
+  },
+  {
+    "id": 59,
+    "en": "Resentment",
+    "jp": "逆恨み",
+    "zh-hans": "怨恨",
+    "zh-hant": "怨恨",
+    "maxLevel": 0
+  },
+  {
+    "id": 60,
+    "en": "Resuscitate",
+    "jp": "死中に活",
+    "zh-hans": "死里逃生",
+    "zh-hant": "死裡逃生",
+    "maxLevel": 0
+  },
+  {
+    "id": 61,
+    "en": "Horn Maestro",
+    "jp": "笛吹き名人",
+    "zh-hans": "吹笛名人",
+    "zh-hant": "吹笛名人",
+    "maxLevel": 0
+  },
+  {
+    "id": 62,
+    "en": "Capacity Boost",
+    "jp": "砲弾装填数ＵＰ",
+    "zh-hans": "炮弹装填数提升",
+    "zh-hant": "砲彈裝填數UP",
+    "maxLevel": 0
+  },
+  {
+    "id": 63,
+    "en": "Special Ammo Boost",
+    "jp": "特殊射撃強化",
+    "zh-hans": "特殊射击强化",
+    "zh-hant": "特殊射擊強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 64,
+    "en": "Artillery",
+    "jp": "砲術",
+    "zh-hans": "炮术",
+    "zh-hant": "砲術",
+    "maxLevel": 0
+  },
+  {
+    "id": 65,
+    "en": "Heavy Artillery",
+    "jp": "砲撃手",
+    "zh-hans": "炮击手",
+    "zh-hant": "砲擊手",
+    "maxLevel": 0
+  },
+  {
+    "id": 66,
+    "en": "Marathon Runner",
+    "jp": "ランナー",
+    "zh-hans": "跑者",
+    "zh-hant": "跑者",
+    "maxLevel": 0
+  },
+  {
+    "id": 67,
+    "en": "Constitution",
+    "jp": "体術",
+    "zh-hans": "体术",
+    "zh-hant": "體術",
+    "maxLevel": 0
+  },
+  {
+    "id": 68,
+    "en": "Leap of Faith",
+    "jp": "飛び込み",
+    "zh-hans": "飞身跃入",
+    "zh-hant": "飛身躍入",
+    "maxLevel": 0
+  },
+  {
+    "id": 69,
+    "en": "Stamina Surge",
+    "jp": "スタミナ急速回復",
+    "zh-hans": "耐力急速回复",
+    "zh-hant": "耐力急速回復",
+    "maxLevel": 0
+  },
+  {
+    "id": 70,
+    "en": "Hunger Resistance",
+    "jp": "腹減り耐性",
+    "zh-hans": "饥饿耐性",
+    "zh-hant": "飢餓耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 71,
+    "en": "Evade Window",
+    "jp": "回避性能",
+    "zh-hans": "回避性能",
+    "zh-hant": "迴避性能",
+    "maxLevel": 0
+  },
+  {
+    "id": 72,
+    "en": "Evade Extender",
+    "jp": "回避距離ＵＰ",
+    "zh-hans": "回避距离提升",
+    "zh-hant": "迴避距離UP",
+    "maxLevel": 0
+  },
+  {
+    "id": 73,
+    "en": "Guard",
+    "jp": "ガード性能",
+    "zh-hans": "防御性能",
+    "zh-hant": "防禦性能",
+    "maxLevel": 0
+  },
+  {
+    "id": 74,
+    "en": "Quick Sheath",
+    "jp": "納刀術",
+    "zh-hans": "纳刀术",
+    "zh-hant": "收刀術",
+    "maxLevel": 0
+  },
+  {
+    "id": 75,
+    "en": "Wide-Range",
+    "jp": "広域化",
+    "zh-hans": "广域化",
+    "zh-hant": "廣域化",
+    "maxLevel": 0
+  },
+  {
+    "id": 76,
+    "en": "Item Prolonger",
+    "jp": "アイテム使用強化",
+    "zh-hans": "道具使用强化",
+    "zh-hant": "道具使用強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 77,
+    "en": "Free Meal",
+    "jp": "満足感",
+    "zh-hans": "满足感",
+    "zh-hant": "滿足感",
+    "maxLevel": 0
+  },
+  {
+    "id": 78,
+    "en": "Speed Eating",
+    "jp": "早食い",
+    "zh-hans": "快吃",
+    "zh-hant": "快吃",
+    "maxLevel": 0
+  },
+  {
+    "id": 79,
+    "en": "Speed Sharpening",
+    "jp": "砥石使用高速化",
+    "zh-hans": "砥石使用高速化",
+    "zh-hant": "砥石使用高速化",
+    "maxLevel": 0
+  },
+  {
+    "id": 80,
+    "en": "Bombardier",
+    "jp": "ボマー",
+    "zh-hans": "炸弹客",
+    "zh-hant": "炸彈客",
+    "maxLevel": 0
+  },
+  {
+    "id": 81,
+    "en": "Mushroomancer",
+    "jp": "キノコ大好き",
+    "zh-hans": "最爱蘑菇",
+    "zh-hant": "最愛菇類",
+    "maxLevel": 0
+  },
+  {
+    "id": 82,
+    "en": "Master Fisher",
+    "jp": "釣り名人",
+    "zh-hans": "钓鱼名人",
+    "zh-hant": "釣魚名人",
+    "maxLevel": 0
+  },
+  {
+    "id": 83,
+    "en": "BBQ Master",
+    "jp": "肉焼き名人",
+    "zh-hans": "烤肉名人",
+    "zh-hant": "烤肉名人",
+    "maxLevel": 0
+  },
+  {
+    "id": 84,
+    "en": "Pro Transporter",
+    "jp": "運搬の​​​​‍‍‏達人",
+    "zh-hans": "搬运达人",
+    "zh-hant": "搬運達人",
+    "maxLevel": 0
+  },
+  {
+    "id": 85,
+    "en": "Master Gatherer",
+    "jp": "採集の​​​​‍‍‏達人",
+    "zh-hans": "采集达人",
+    "zh-hant": "採集達人",
+    "maxLevel": 0
+  },
+  {
+    "id": 86,
+    "en": "Honey Hunter",
+    "jp": "ハニーハンター",
+    "zh-hans": "蜂蜜猎人",
+    "zh-hant": "蜂蜜獵人",
+    "maxLevel": 0
+  },
+  {
+    "id": 87,
+    "en": "Carving Pro",
+    "jp": "剥ぎ取り鉄人",
+    "zh-hans": "剥取铁人",
+    "zh-hant": "剝取鐵人",
+    "maxLevel": 0
+  },
+  {
+    "id": 88,
+    "en": "Divine Blessing",
+    "jp": "精霊の​​​​‍‍‏加護",
+    "zh-hans": "精灵加护",
+    "zh-hant": "精靈加護",
+    "maxLevel": 0
+  },
+  {
+    "id": 89,
+    "en": "Palico Rally",
+    "jp": "オトモへの​​​​‍‍‏采配",
+    "zh-hans": "指示随从",
+    "zh-hant": "指示隨從",
+    "maxLevel": 0
+  },
+  {
+    "id": 90,
+    "en": "Botanist",
+    "jp": "植生学",
+    "zh-hans": "植生学",
+    "zh-hant": "植生學",
+    "maxLevel": 0
+  },
+  {
+    "id": 91,
+    "en": "Geologist",
+    "jp": "地質学",
+    "zh-hans": "地质学",
+    "zh-hant": "地質學",
+    "maxLevel": 0
+  },
+  {
+    "id": 92,
+    "en": "Maximum Might",
+    "jp": "渾身",
+    "zh-hans": "精神抖擞",
+    "zh-hant": "精神抖擻",
+    "maxLevel": 0
+  },
+  {
+    "id": 93,
+    "en": "Invalid Message",
+    "jp": "スリンガー装填数ＵＰ",
+    "zh-hans": "Invalid Message",
+    "zh-hant": "Invalid Message",
+    "maxLevel": 0
+  },
+  {
+    "id": 94,
+    "en": "Stealth",
+    "jp": "潜伏",
+    "zh-hans": "潜伏",
+    "zh-hant": "潛伏",
+    "maxLevel": 0
+  },
+  {
+    "id": 95,
+    "en": "Flinch Free",
+    "jp": "ひるみ軽減",
+    "zh-hans": "减轻胆怯",
+    "zh-hant": "減輕膽怯",
+    "maxLevel": 0
+  },
+  {
+    "id": 96,
+    "en": "Scoutfly Range Up",
+    "jp": "導蟲反応距離ＵＰ",
+    "zh-hans": "导虫反应距离提升",
+    "zh-hant": "導蟲反應距離UP",
+    "maxLevel": 0
+  },
+  {
+    "id": 97,
+    "en": "Speed Crawler",
+    "jp": "しゃがみ移動速度ＵＰ",
+    "zh-hans": "蹲下移动速度提升",
+    "zh-hant": "蹲下移動速度UP",
+    "maxLevel": 0
+  },
+  {
+    "id": 98,
+    "en": "Jump Master",
+    "jp": "ジャンプ鉄人",
+    "zh-hans": "跳跃铁人",
+    "zh-hant": "跳躍鐵人",
+    "maxLevel": 0
+  },
+  {
+    "id": 99,
+    "en": "Survival Expert",
+    "jp": "環境利用の​​​​‍‍‏知識",
+    "zh-hans": "环境利用知识",
+    "zh-hant": "環境利用知識",
+    "maxLevel": 0
+  },
+  {
+    "id": 100,
+    "en": "Aquatic/Polar Mobility",
+    "jp": "水場・深雪適応",
+    "zh-hans": "适应水场·深雪",
+    "zh-hant": "適應水場‧深雪",
+    "maxLevel": 0
+  },
+  {
+    "id": 101,
+    "en": "Cliffhanger",
+    "jp": "クライマー",
+    "zh-hans": "攀岩者",
+    "zh-hant": "攀岩者",
+    "maxLevel": 0
+  },
+  {
+    "id": 102,
+    "en": "Blindsider",
+    "jp": "閃光強化",
+    "zh-hans": "闪光强化",
+    "zh-hant": "閃光強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 103,
+    "en": "Scholar",
+    "jp": "研究者",
+    "zh-hans": "研究者",
+    "zh-hant": "研究者",
+    "maxLevel": 0
+  },
+  {
+    "id": 104,
+    "en": "Entomologist",
+    "jp": "昆虫標本の​​​​‍‍‏達人",
+    "zh-hans": "昆虫标本达人",
+    "zh-hant": "昆蟲標本達人",
+    "maxLevel": 0
+  },
+  {
+    "id": 105,
+    "en": "Effluvia Resistance",
+    "jp": "瘴気耐性",
+    "zh-hans": "瘴气耐性",
+    "zh-hant": "瘴氣耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 106,
+    "en": "Scenthound",
+    "jp": "追跡の​​​​‍‍‏達人",
+    "zh-hans": "追踪达人",
+    "zh-hant": "追蹤達人",
+    "maxLevel": 0
+  },
+  {
+    "id": 107,
+    "en": "Forager's Luck",
+    "jp": "探索者の​​​​‍‍‏幸運",
+    "zh-hans": "探索者之幸运",
+    "zh-hant": "探索者之幸運",
+    "maxLevel": 0
+  },
+  {
+    "id": 108,
+    "en": "Detector",
+    "jp": "感知",
+    "zh-hans": "察觉",
+    "zh-hant": "察覺",
+    "maxLevel": 0
+  },
+  {
+    "id": 109,
+    "en": "Tool Specialist",
+    "jp": "整備",
+    "zh-hans": "整备",
+    "zh-hant": "整備",
+    "maxLevel": 0
+  },
+  {
+    "id": 110,
+    "en": "Affinity Sliding",
+    "jp": "滑走強化",
+    "zh-hans": "滑走强化",
+    "zh-hant": "滑走強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 111,
+    "en": "Elderseal Boost",
+    "jp": "龍封力強化",
+    "zh-hans": "龙封力强化",
+    "zh-hant": "龍封力強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 112,
+    "en": "Intimidator",
+    "jp": "威嚇",
+    "zh-hans": "威吓",
+    "zh-hant": "威嚇",
+    "maxLevel": 0
+  },
+  {
+    "id": 113,
+    "en": "Anjanath Power",
+    "jp": "蛮顎竜の​​​​‍‍‏力",
+    "zh-hans": "蛮颚龙之力",
+    "zh-hant": "蠻顎龍之力",
+    "maxLevel": 0
+  },
+  {
+    "id": 114,
+    "en": "Nergigante Hunger",
+    "jp": "滅尽龍の​​​​‍‍‏飢餓",
+    "zh-hans": "灭尽龙之饥饿",
+    "zh-hant": "滅盡龍之飢餓",
+    "maxLevel": 0
+  },
+  {
+    "id": 115,
+    "en": "Vaal Hazak Vitality",
+    "jp": "屍套龍の​​​​‍‍‏命脈",
+    "zh-hans": "尸套龙之命脉",
+    "zh-hant": "屍套龍之命脈",
+    "maxLevel": 0
+  },
+  {
+    "id": 116,
+    "en": "Rathalos Power",
+    "jp": "火竜の​​​​‍‍‏力",
+    "zh-hans": "火龙之力",
+    "zh-hant": "火龍之力",
+    "maxLevel": 0
+  },
+  {
+    "id": 117,
+    "en": "Diablos Power",
+    "jp": "角竜の​​​​‍‍‏力",
+    "zh-hans": "角龙之力",
+    "zh-hant": "角龍之力",
+    "maxLevel": 0
+  },
+  {
+    "id": 118,
+    "en": "Kirin Blessing",
+    "jp": "幻獣の​​​​‍‍‏恩恵",
+    "zh-hans": "幻兽之恩惠",
+    "zh-hant": "麒麟之恩惠",
+    "maxLevel": 0
+  },
+  {
+    "id": 119,
+    "en": "Pink Rathian Mastery",
+    "jp": "桜火竜の​​​​‍‍‏奥義",
+    "zh-hans": "樱火龙之奥秘",
+    "zh-hant": "櫻火龍之奧秘",
+    "maxLevel": 0
+  },
+  {
+    "id": 120,
+    "en": "Anjanath Will",
+    "jp": "蛮顎竜の​​​​‍‍‏闘志",
+    "zh-hans": "蛮颚龙之斗志",
+    "zh-hant": "蠻顎龍之鬥志",
+    "maxLevel": 0
+  },
+  {
+    "id": 121,
+    "en": "Rathalos Mastery",
+    "jp": "火竜の​​​​‍‍‏奥義",
+    "zh-hans": "火龙之奥秘",
+    "zh-hant": "火龍之奧秘",
+    "maxLevel": 0
+  },
+  {
+    "id": 122,
+    "en": "Diablos Mastery",
+    "jp": "角竜の​​​​‍‍‏奥義",
+    "zh-hans": "角龙之奥秘",
+    "zh-hant": "角龍之奧秘",
+    "maxLevel": 0
+  },
+  {
+    "id": 123,
+    "en": "Kirin Favor",
+    "jp": "幻獣の​​​​‍‍‏恩寵",
+    "zh-hans": "幻兽之恩宠",
+    "zh-hant": "麒麟之恩寵",
+    "maxLevel": 0
+  },
+  {
+    "id": 124,
+    "en": "Uragaan Protection",
+    "jp": "爆鎚竜の​​​​‍‍‏守護",
+    "zh-hans": "爆锤龙之守护",
+    "zh-hant": "爆鎚龍之守護",
+    "maxLevel": 0
+  },
+  {
+    "id": 125,
+    "en": "Bazelgeuse Protection",
+    "jp": "爆鱗竜の​​​​‍‍‏守護",
+    "zh-hans": "爆鳞龙之守护",
+    "zh-hant": "爆鱗龍之守護",
+    "maxLevel": 0
+  },
+  {
+    "id": 126,
+    "en": "Teostra Technique",
+    "jp": "炎王龍の​​​​‍‍‏武技",
+    "zh-hans": "炎王龙之武技",
+    "zh-hant": "炎王龍之武技",
+    "maxLevel": 0
+  },
+  {
+    "id": 127,
+    "en": "Kushala Daora Flight",
+    "jp": "鋼龍の​​​​‍‍‏飛翔",
+    "zh-hans": "钢龙之飞翔",
+    "zh-hant": "鋼龍之飛翔",
+    "maxLevel": 0
+  },
+  {
+    "id": 128,
+    "en": "Xeno'jiiva Divinity",
+    "jp": "冥灯龍の​​​​‍‍‏神秘",
+    "zh-hans": "冥灯龙之神秘",
+    "zh-hant": "冥燈龍之神秘",
+    "maxLevel": 0
+  },
+  {
+    "id": 129,
+    "en": "Zorah Magdaros Mastery",
+    "jp": "熔山龍の​​​​‍‍‏奥義",
+    "zh-hans": "熔山龙之奥秘",
+    "zh-hant": "熔山龍之奧秘",
+    "maxLevel": 0
+  },
+  {
+    "id": 130,
+    "en": "Guild Guidance",
+    "jp": "ギルドの​​​​‍‍‏導き",
+    "zh-hans": "公会之指引",
+    "zh-hant": "公會之指引",
+    "maxLevel": 0
+  },
+  {
+    "id": 131,
+    "en": "Commission Guidance",
+    "jp": "調査団の​​​​‍‍‏導き",
+    "zh-hans": "调查团之指引",
+    "zh-hant": "調查團之指引",
+    "maxLevel": 0
+  },
+  {
+    "id": 132,
+    "en": "Legiana Blessing",
+    "jp": "風漂竜の​​​​‍‍‏恩恵",
+    "zh-hans": "风漂龙之恩宠",
+    "zh-hant": "風漂龍之恩惠",
+    "maxLevel": 0
+  },
+  {
+    "id": 133,
+    "en": "Legiana Favor",
+    "jp": "風漂竜の​​​​‍‍‏恩寵",
+    "zh-hans": "风漂龙之恩宠",
+    "zh-hant": "風漂龍之恩寵",
+    "maxLevel": 0
+  },
+  {
+    "id": 134,
+    "en": "Odogaron Power",
+    "jp": "惨爪竜の​​​​‍‍‏力",
+    "zh-hans": "惨爪龙之力",
+    "zh-hant": "慘爪龍之力",
+    "maxLevel": 0
+  },
+  {
+    "id": 135,
+    "en": "Odogaron Mastery",
+    "jp": "惨爪竜の​​​​‍‍‏奥義",
+    "zh-hans": "惨爪龙之奥秘",
+    "zh-hant": "慘爪龍之奧秘",
+    "maxLevel": 0
+  },
+  {
+    "id": 136,
+    "en": "Bow Charge Plus",
+    "jp": "弓溜め段階解放",
+    "zh-hans": "解放弓的蓄力阶段",
+    "zh-hant": "解放弓的蓄力階段",
+    "maxLevel": 0
+  },
+  {
+    "id": 137,
+    "en": "Mind's Eye/Ballistics",
+    "jp": "心眼／弾導強化",
+    "zh-hans": "心眼／弹道强化",
+    "zh-hant": "心眼／彈道強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 138,
+    "en": "Guard Up",
+    "jp": "ガード強化",
+    "zh-hans": "防御强化",
+    "zh-hant": "防禦強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 139,
+    "en": "Protective Polish",
+    "jp": "剛刃研磨",
+    "zh-hans": "刚刃研磨",
+    "zh-hant": "剛刃研磨",
+    "maxLevel": 0
+  },
+  {
+    "id": 140,
+    "en": "Non-elemental Boost",
+    "jp": "無属性強化",
+    "zh-hans": "无属性强化",
+    "zh-hant": "無屬性強化",
+    "maxLevel": 0
+  },
+  {
+    "id": 141,
+    "en": "Guts",
+    "jp": "根性",
+    "zh-hans": "毅力",
+    "zh-hant": "毅力",
+    "maxLevel": 0
+  },
+  {
+    "id": 142,
+    "en": "Hasten Recovery",
+    "jp": "加速再生",
+    "zh-hans": "加速再生",
+    "zh-hant": "加速再生",
+    "maxLevel": 0
+  },
+  {
+    "id": 143,
+    "en": "Razor Sharp/Spare Shot",
+    "jp": "業物／弾丸節約",
+    "zh-hans": "利刃／弹丸节约",
+    "zh-hant": "利刃／彈丸節約",
+    "maxLevel": 0
+  },
+  {
+    "id": 144,
+    "en": "Lunastra Favor",
+    "jp": "炎妃龍の​​​​‍‍‏恩寵",
+    "zh-hans": "炎妃龙之恩宠",
+    "zh-hant": "炎妃龍之恩寵",
+    "maxLevel": 0
+  },
+  {
+    "id": 145,
+    "en": "Soul of the Dragoon",
+    "jp": "竜騎士の​​​​‍‍‏証",
+    "zh-hans": "龙骑士之证",
+    "zh-hant": "龍騎士之證",
+    "maxLevel": 0
+  },
+  {
+    "id": 146,
+    "en": "Critical Element",
+    "jp": "会心撃【属性】",
+    "zh-hans": "会心攻击【属性】",
+    "zh-hant": "會心攻擊【屬性】",
+    "maxLevel": 0
+  },
+  {
+    "id": 147,
+    "en": "Critical Status",
+    "jp": "会心撃【特殊】",
+    "zh-hans": "会心攻击【特殊】",
+    "zh-hant": "會心攻擊【特殊】",
+    "maxLevel": 0
+  },
+  {
+    "id": 148,
+    "en": "Witcher's Knowledge",
+    "jp": "ウィッチャーの​​​​‍‍‏心得",
+    "zh-hans": "猎魔人的心得",
+    "zh-hant": "狩魔獵人的心得",
+    "maxLevel": 0
+  },
+  {
+    "id": 149,
+    "en": "Astera Blessing",
+    "jp": "アステラの​​​​‍‍‏祝福",
+    "zh-hans": "星辰的祝福",
+    "zh-hant": "星辰的祝福",
+    "maxLevel": 0
+  },
+  {
+    "id": 150,
+    "en": "Zinogre Essence",
+    "jp": "雷狼竜の​​​​‍‍‏真髄",
+    "zh-hans": "雷狼龙的真髓",
+    "zh-hant": "雷狼龍的真髓",
+    "maxLevel": 0
+  },
+  {
+    "id": 151,
+    "en": "Tigrex Essence",
+    "jp": "轟竜の​​​​‍‍‏真髄",
+    "zh-hans": "轰龙的真髓",
+    "zh-hant": "轟龍的真髓",
+    "maxLevel": 0
+  },
+  {
+    "id": 152,
+    "en": "Nargacuga Essence",
+    "jp": "迅竜の​​​​‍‍‏真髄",
+    "zh-hans": "迅龙的真髓",
+    "zh-hant": "迅龍的真髓",
+    "maxLevel": 0
+  },
+  {
+    "id": 153,
+    "en": "Brachydios Essence",
+    "jp": "砕竜の​​​​‍‍‏真髄",
+    "zh-hans": "碎龙的真髓",
+    "zh-hant": "碎龍的真髓",
+    "maxLevel": 0
+  },
+  {
+    "id": 154,
+    "en": "Glavenus Essence",
+    "jp": "斬竜の​​​​‍‍‏真髄",
+    "zh-hans": "斩龙的真髓",
+    "zh-hant": "斬龍的真髓",
+    "maxLevel": 0
+  },
+  {
+    "id": 155,
+    "en": "Silver Rathalos Essence",
+    "jp": "銀火竜の​​​​‍‍‏真髄",
+    "zh-hans": "银火龙的真髓",
+    "zh-hant": "銀火龍的真髓",
+    "maxLevel": 0
+  },
+  {
+    "id": 156,
+    "en": "Gold Rathian Essence",
+    "jp": "金火竜の​​​​‍‍‏真髄",
+    "zh-hans": "金火龙的真髓",
+    "zh-hant": "金火龍的真髓",
+    "maxLevel": 0
+  },
+  {
+    "id": 157,
+    "en": "Shara Ishvalda Divinity",
+    "jp": "地啼龍の​​​​‍‍‏神秘",
+    "zh-hans": "天地煌啼龙的神秘",
+    "zh-hant": "天地煌啼龍的神秘",
+    "maxLevel": 0
+  },
+  {
+    "id": 158,
+    "en": "Namielle Divinity",
+    "jp": "溟龍の​​​​‍‍‏神秘",
+    "zh-hans": "溟波龙的神秘",
+    "zh-hant": "溟波龍的神秘",
+    "maxLevel": 0
+  },
+  {
+    "id": 159,
+    "en": "Velkhana Divinity",
+    "jp": "冰龍の​​​​‍‍‏神秘",
+    "zh-hans": "冰呪龙的神秘",
+    "zh-hant": "冰呪龍的神秘",
+    "maxLevel": 0
+  },
+  {
+    "id": 160,
+    "en": "Ancient Divinity",
+    "jp": "太古の​​​​‍‍‏神秘",
+    "zh-hans": "太古的神秘",
+    "zh-hant": "太古的神秘",
+    "maxLevel": 0
+  },
+  {
+    "id": 161,
+    "en": "Commission Alchemy",
+    "jp": "調査団の​​​​‍‍‏錬金術",
+    "zh-hans": "调查团的炼金术",
+    "zh-hant": "調查團的鍊金術",
+    "maxLevel": 0
+  },
+  {
+    "id": 162,
+    "en": "Instructor's Guidance",
+    "jp": "教官の​​​​‍‍‏導き",
+    "zh-hans": "教官的引导",
+    "zh-hant": "教官的引導",
+    "maxLevel": 0
+  },
+  {
+    "id": 163,
+    "en": "Anjanath Dominance",
+    "jp": "蛮顎竜の​​​​‍‍‏覇気",
+    "zh-hans": "蛮颚龙的霸气",
+    "zh-hant": "蠻顎龍的霸氣",
+    "maxLevel": 0
+  },
+  {
+    "id": 164,
+    "en": "Rathian Essence",
+    "jp": "雌火竜の​​​​‍‍‏真髄",
+    "zh-hans": "雌火龙的真髓",
+    "zh-hant": "雌火龍的真髓",
+    "maxLevel": 0
+  },
+  {
+    "id": 165,
+    "en": "Provoker",
+    "jp": "陽動攻撃",
+    "zh-hans": "佯动攻击",
+    "zh-hant": "佯動攻擊",
+    "maxLevel": 0
+  },
+  {
+    "id": 166,
+    "en": "Offensive Guard",
+    "jp": "攻めの​​​​‍‍‏守勢",
+    "zh-hans": "攻击守势",
+    "zh-hant": "攻擊守勢",
+    "maxLevel": 0
+  },
+  {
+    "id": 167,
+    "en": "Coalescence",
+    "jp": "災禍転福",
+    "zh-hans": "转祸为福",
+    "zh-hant": "轉禍為福",
+    "maxLevel": 0
+  },
+  {
+    "id": 168,
+    "en": "Safe Landing",
+    "jp": "受け身術",
+    "zh-hans": "受身术",
+    "zh-hant": "受身術",
+    "maxLevel": 0
+  },
+  {
+    "id": 169,
+    "en": "Barioth Hidden Art",
+    "jp": "氷牙竜の​​​​‍‍‏秘技",
+    "zh-hans": "冰牙龙的秘技",
+    "zh-hant": "冰牙龍的秘技",
+    "maxLevel": 0
+  },
+  {
+    "id": 170,
+    "en": "Rathalos Essence",
+    "jp": "火竜の​​​​‍‍‏真髄",
+    "zh-hans": "火龙的真髓",
+    "zh-hant": "火龍的真髓",
+    "maxLevel": 0
+  },
+  {
+    "id": 171,
+    "en": "Diablos Ambition",
+    "jp": "角竜の​​​​‍‍‏覇気",
+    "zh-hans": "角龙的霸气",
+    "zh-hant": "角龍的霸氣",
+    "maxLevel": 0
+  },
+  {
+    "id": 172,
+    "en": "Legiana Ambition",
+    "jp": "風漂竜の​​​​‍‍‏覇気",
+    "zh-hans": "风漂龙的霸气",
+    "zh-hant": "風漂龍的霸氣",
+    "maxLevel": 0
+  },
+  {
+    "id": 173,
+    "en": "Odogaron Essence",
+    "jp": "惨爪竜の​​​​‍‍‏真髄",
+    "zh-hans": "惨爪龙的真髓",
+    "zh-hant": "慘爪龍的真髓",
+    "maxLevel": 0
+  },
+  {
+    "id": 174,
+    "en": "Uragaan Ambition",
+    "jp": "爆鎚竜の​​​​‍‍‏覇気",
+    "zh-hans": "爆锤龙的霸气",
+    "zh-hant": "爆鎚龍的霸氣",
+    "maxLevel": 0
+  },
+  {
+    "id": 175,
+    "en": "Bazelgeuse Ambition",
+    "jp": "爆鱗竜の​​​​‍‍‏覇気",
+    "zh-hans": "爆鳞龙的霸气",
+    "zh-hant": "爆鱗龍的霸氣",
+    "maxLevel": 0
+  },
+  {
+    "id": 176,
+    "en": "Deviljho Essence",
+    "jp": "恐暴竜の​​​​‍‍‏真髄",
+    "zh-hans": "恐暴龙的真髓",
+    "zh-hant": "恐暴龍的真髓",
+    "maxLevel": 0
+  },
+  {
+    "id": 177,
+    "en": "Vaal Soulvein",
+    "jp": "屍套龍の​​​​‍‍‏霊脈",
+    "zh-hans": "尸套龙的灵脉",
+    "zh-hant": "屍套龍的靈脈",
+    "maxLevel": 0
+  },
+  {
+    "id": 178,
+    "en": "Kirin Divinity",
+    "jp": "幻獣の​​​​‍‍‏神秘",
+    "zh-hans": "幻兽的神秘",
+    "zh-hant": "幻獸的神秘",
+    "maxLevel": 0
+  },
+  {
+    "id": 179,
+    "en": "Guild Pride",
+    "jp": "ギルドの​​​​‍‍‏見識",
+    "zh-hans": "公会的见识",
+    "zh-hant": "公會的見識",
+    "maxLevel": 0
+  },
+  {
+    "id": 180,
+    "en": "Zorah Magdaros Essence",
+    "jp": "熔山龍の​​​​‍‍‏真髄",
+    "zh-hans": "熔山龙的真髓",
+    "zh-hant": "熔山龍的真髓",
+    "maxLevel": 0
+  },
+  {
+    "id": 181,
+    "en": "Lunastra Essence",
+    "jp": "炎妃龍の​​​​‍‍‏真髄",
+    "zh-hans": "炎妃龙的真髓",
+    "zh-hant": "炎妃龍的真髓",
+    "maxLevel": 0
+  },
+  {
+    "id": 182,
+    "en": "Nergigante Ambition",
+    "jp": "滅尽龍の​​​​‍‍‏覇気",
+    "zh-hans": "灭尽龙的霸气",
+    "zh-hant": "滅盡龍的霸氣",
+    "maxLevel": 0
+  },
+  {
+    "id": 183,
+    "en": "Bludgeoner",
+    "jp": "鈍器使い",
+    "zh-hans": "钝器能手",
+    "zh-hant": "鈍器能手",
+    "maxLevel": 0
+  },
+  {
+    "id": 184,
+    "en": "Adrenaline",
+    "jp": "奮起",
+    "zh-hans": "振奋",
+    "zh-hant": "振奮",
+    "maxLevel": 0
+  },
+  {
+    "id": 185,
+    "en": "Coldproof",
+    "jp": "寒さ耐性",
+    "zh-hans": "寒冷耐性",
+    "zh-hant": "寒冷耐性",
+    "maxLevel": 0
+  },
+  {
+    "id": 186,
+    "en": "Joyful Blessing",
+    "jp": "万福の​​​​‍‍‏祝福",
+    "zh-hans": "万福的祝福",
+    "zh-hant": "萬福的祝福",
+    "maxLevel": 0
+  },
+  {
+    "id": 187,
+    "en": "Appreciation Blessing",
+    "jp": "大感謝の​​​​‍‍‏祝福",
+    "zh-hans": "大感谢的祝福",
+    "zh-hant": "大感謝的祝福",
+    "maxLevel": 0
+  }
+]
