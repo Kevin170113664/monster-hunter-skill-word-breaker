@@ -5,7 +5,7 @@
     "jp": "毒耐性",
     "zh-hans": "毒耐性",
     "zh-hant": "毒耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 1,
@@ -13,7 +13,7 @@
     "jp": "麻痺耐性",
     "zh-hans": "麻痹耐性",
     "zh-hant": "麻痺耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "jp": "睡眠耐性",
     "zh-hans": "睡眠耐性",
     "zh-hant": "睡眠耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 3,
@@ -29,7 +29,7 @@
     "jp": "気絶耐性",
     "zh-hans": "昏厥耐性",
     "zh-hant": "昏厥耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "jp": "泥耐性",
     "zh-hans": "泥耐性",
     "zh-hant": "泥耐性",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "jp": "爆破やられ耐性",
     "zh-hans": "爆破异常状态的耐性",
     "zh-hant": "爆破異常狀態的耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 6,
@@ -53,7 +53,7 @@
     "jp": "裂傷耐性",
     "zh-hans": "裂伤耐性",
     "zh-hant": "裂傷耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 7,
@@ -61,7 +61,7 @@
     "jp": "防御力ＤＯＷＮ耐性",
     "zh-hans": "防御力下降耐性",
     "zh-hant": "防禦力DOWN耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "jp": "耳栓",
     "zh-hans": "耳塞",
     "zh-hant": "耳塞",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 9,
@@ -77,7 +77,7 @@
     "jp": "風圧耐性",
     "zh-hans": "风压耐性",
     "zh-hant": "風壓耐性",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 10,
@@ -85,7 +85,7 @@
     "jp": "耐震",
     "zh-hans": "耐震",
     "zh-hant": "耐震",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 11,
@@ -93,7 +93,7 @@
     "jp": "こやし名人",
     "zh-hans": "异臭名人",
     "zh-hant": "異臭名人",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 12,
@@ -101,7 +101,7 @@
     "jp": "瘴気環境適応",
     "zh-hans": "适应瘴气环境",
     "zh-hant": "適應瘴氣環境",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 13,
@@ -109,7 +109,7 @@
     "jp": "熱ダメージ無効",
     "zh-hans": "热伤害无效",
     "zh-hant": "熱傷害無效",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 14,
@@ -117,7 +117,7 @@
     "jp": "攻撃",
     "zh-hans": "攻击",
     "zh-hant": "攻擊",
-    "maxLevel": 0
+    "maxLevel": 7
   },
   {
     "id": 15,
@@ -125,7 +125,7 @@
     "jp": "防御",
     "zh-hans": "防御",
     "zh-hant": "防禦",
-    "maxLevel": 0
+    "maxLevel": 7
   },
   {
     "id": 16,
@@ -133,7 +133,7 @@
     "jp": "体力増強",
     "zh-hans": "体力增强",
     "zh-hant": "體力增強",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 17,
@@ -141,7 +141,7 @@
     "jp": "体力回復量ＵＰ",
     "zh-hans": "体力回复量上升",
     "zh-hant": "體力回復量UP",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 18,
@@ -149,7 +149,7 @@
     "jp": "回復速度",
     "zh-hans": "回复速度",
     "zh-hant": "回復速度",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 19,
@@ -157,7 +157,7 @@
     "jp": "火耐性",
     "zh-hans": "火耐性",
     "zh-hant": "火耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 20,
@@ -165,7 +165,7 @@
     "jp": "水耐性",
     "zh-hans": "水耐性",
     "zh-hant": "水耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 21,
@@ -173,7 +173,7 @@
     "jp": "氷耐性",
     "zh-hans": "冰耐性",
     "zh-hant": "冰耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 22,
@@ -181,7 +181,7 @@
     "jp": "雷耐性",
     "zh-hans": "雷耐性",
     "zh-hant": "雷耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 23,
@@ -189,7 +189,7 @@
     "jp": "龍耐性",
     "zh-hans": "龙耐性",
     "zh-hant": "龍耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 24,
@@ -197,7 +197,7 @@
     "jp": "属性やられ耐性",
     "zh-hans": "属性异常状态的耐性",
     "zh-hant": "屬性異常狀態的耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 25,
@@ -205,7 +205,7 @@
     "jp": "火属性攻撃強化",
     "zh-hans": "火属性攻击强化",
     "zh-hant": "火屬性攻擊強化",
-    "maxLevel": 0
+    "maxLevel": 6
   },
   {
     "id": 26,
@@ -213,7 +213,7 @@
     "jp": "水属性攻撃強化",
     "zh-hans": "水属性攻击强化",
     "zh-hant": "水屬性攻擊強化",
-    "maxLevel": 0
+    "maxLevel": 6
   },
   {
     "id": 27,
@@ -221,7 +221,7 @@
     "jp": "氷属性攻撃強化",
     "zh-hans": "冰属性攻击强化",
     "zh-hant": "冰屬性攻擊強化",
-    "maxLevel": 0
+    "maxLevel": 6
   },
   {
     "id": 28,
@@ -229,7 +229,7 @@
     "jp": "雷属性攻撃強化",
     "zh-hans": "雷属性攻击强化",
     "zh-hant": "雷屬性攻擊強化",
-    "maxLevel": 0
+    "maxLevel": 6
   },
   {
     "id": 29,
@@ -237,7 +237,7 @@
     "jp": "龍属性攻撃強化",
     "zh-hans": "龙属性攻击强化",
     "zh-hant": "龍屬性攻擊強化",
-    "maxLevel": 0
+    "maxLevel": 6
   },
   {
     "id": 30,
@@ -245,7 +245,7 @@
     "jp": "毒属性強化",
     "zh-hans": "毒属性强化",
     "zh-hant": "毒屬性強化",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 31,
@@ -253,7 +253,7 @@
     "jp": "麻痺属性強化",
     "zh-hans": "麻痹属性强化",
     "zh-hant": "麻痺屬性強化",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 32,
@@ -261,7 +261,7 @@
     "jp": "睡眠属性強化",
     "zh-hans": "睡眠属性强化",
     "zh-hant": "睡眠屬性強化",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 33,
@@ -269,7 +269,7 @@
     "jp": "爆破属性強化",
     "zh-hans": "爆破属性强化",
     "zh-hant": "爆破屬性強化",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 34,
@@ -277,7 +277,7 @@
     "jp": "通常弾・通常矢強化",
     "zh-hans": "通常弹与通常箭强化",
     "zh-hant": "通常彈‧通常箭強化",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 35,
@@ -285,7 +285,7 @@
     "jp": "貫通弾・竜の​​​​‍‍‏一矢強化",
     "zh-hans": "贯通弹与龙之箭强化",
     "zh-hant": "貫通彈‧龍之箭強化",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 36,
@@ -293,7 +293,7 @@
     "jp": "散弾・剛射強化",
     "zh-hans": "散弹·刚射强化",
     "zh-hant": "散彈‧剛射強化",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 37,
@@ -301,7 +301,7 @@
     "jp": "毒ビン追加",
     "zh-hans": "毒瓶追加",
     "zh-hant": "毒瓶追加",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 38,
@@ -309,7 +309,7 @@
     "jp": "麻痺ビン追加",
     "zh-hans": "麻痹瓶追加",
     "zh-hant": "麻痺瓶追加",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 39,
@@ -317,7 +317,7 @@
     "jp": "睡眠ビン追加",
     "zh-hans": "睡眠瓶追加",
     "zh-hant": "睡眠瓶追加",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 40,
@@ -325,7 +325,7 @@
     "jp": "爆破ビン追加",
     "zh-hans": "爆破瓶追加",
     "zh-hant": "爆破瓶追加",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 41,
@@ -333,7 +333,7 @@
     "jp": "属性解放／装填拡張",
     "zh-hans": "属性解放／装填扩充",
     "zh-hant": "屬性解放／裝填擴充",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 42,
@@ -341,7 +341,7 @@
     "jp": "見切り",
     "zh-hans": "看破",
     "zh-hant": "看破",
-    "maxLevel": 0
+    "maxLevel": 7
   },
   {
     "id": 43,
@@ -349,7 +349,7 @@
     "jp": "超会心",
     "zh-hans": "超会心",
     "zh-hant": "超會心",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 44,
@@ -357,7 +357,7 @@
     "jp": "弱点特効",
     "zh-hans": "弱点特效",
     "zh-hant": "弱點特效",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 45,
@@ -365,7 +365,7 @@
     "jp": "集中",
     "zh-hans": "集中",
     "zh-hant": "集中",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 46,
@@ -373,7 +373,7 @@
     "jp": "強化持続",
     "zh-hans": "强化持续",
     "zh-hant": "強化持續",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 47,
@@ -381,7 +381,7 @@
     "jp": "匠",
     "zh-hans": "匠",
     "zh-hant": "匠",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 48,
@@ -389,7 +389,7 @@
     "jp": "抜刀術【技】",
     "zh-hans": "拔刀术【技】",
     "zh-hant": "拔刀術【技】",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 49,
@@ -397,7 +397,7 @@
     "jp": "破壊王",
     "zh-hans": "破坏王",
     "zh-hant": "破壞王",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 50,
@@ -405,7 +405,7 @@
     "jp": "ＫＯ術",
     "zh-hans": "击晕术",
     "zh-hant": "KO術",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 51,
@@ -413,7 +413,7 @@
     "jp": "スタミナ奪取",
     "zh-hans": "夺取耐力",
     "zh-hant": "奪取耐力",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 52,
@@ -421,7 +421,7 @@
     "jp": "乗り名人",
     "zh-hans": "骑乘名人",
     "zh-hant": "騎乘名人",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 53,
@@ -429,7 +429,7 @@
     "jp": "飛燕",
     "zh-hans": "飞燕",
     "zh-hant": "飛燕",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 54,
@@ -437,7 +437,7 @@
     "jp": "力の​​​​‍‍‏解放",
     "zh-hans": "力量解放",
     "zh-hant": "力量解放",
-    "maxLevel": 0
+    "maxLevel": 7
   },
   {
     "id": 55,
@@ -445,7 +445,7 @@
     "jp": "挑戦者",
     "zh-hans": "挑战者",
     "zh-hant": "挑戰者",
-    "maxLevel": 0
+    "maxLevel": 7
   },
   {
     "id": 56,
@@ -453,7 +453,7 @@
     "jp": "フルチャージ",
     "zh-hans": "无伤",
     "zh-hant": "無傷",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 57,
@@ -461,7 +461,7 @@
     "jp": "火事場力",
     "zh-hans": "火场怪力",
     "zh-hant": "火場怪力",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 58,
@@ -469,7 +469,7 @@
     "jp": "不屈",
     "zh-hans": "不屈",
     "zh-hant": "不屈",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 59,
@@ -477,7 +477,7 @@
     "jp": "逆恨み",
     "zh-hans": "怨恨",
     "zh-hant": "怨恨",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 60,
@@ -485,7 +485,7 @@
     "jp": "死中に活",
     "zh-hans": "死里逃生",
     "zh-hant": "死裡逃生",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 61,
@@ -493,7 +493,7 @@
     "jp": "笛吹き名人",
     "zh-hans": "吹笛名人",
     "zh-hant": "吹笛名人",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 62,
@@ -501,7 +501,7 @@
     "jp": "砲弾装填数ＵＰ",
     "zh-hans": "炮弹装填数提升",
     "zh-hant": "砲彈裝填數UP",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 63,
@@ -509,7 +509,7 @@
     "jp": "特殊射撃強化",
     "zh-hans": "特殊射击强化",
     "zh-hant": "特殊射擊強化",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 64,
@@ -517,7 +517,7 @@
     "jp": "砲術",
     "zh-hans": "炮术",
     "zh-hant": "砲術",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 65,
@@ -525,7 +525,7 @@
     "jp": "砲撃手",
     "zh-hans": "炮击手",
     "zh-hant": "砲擊手",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 66,
@@ -533,7 +533,7 @@
     "jp": "ランナー",
     "zh-hans": "跑者",
     "zh-hant": "跑者",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 67,
@@ -541,7 +541,7 @@
     "jp": "体術",
     "zh-hans": "体术",
     "zh-hant": "體術",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 68,
@@ -549,7 +549,7 @@
     "jp": "飛び込み",
     "zh-hans": "飞身跃入",
     "zh-hant": "飛身躍入",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 69,
@@ -557,7 +557,7 @@
     "jp": "スタミナ急速回復",
     "zh-hans": "耐力急速回复",
     "zh-hant": "耐力急速回復",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 70,
@@ -565,7 +565,7 @@
     "jp": "腹減り耐性",
     "zh-hans": "饥饿耐性",
     "zh-hant": "飢餓耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 71,
@@ -573,7 +573,7 @@
     "jp": "回避性能",
     "zh-hans": "回避性能",
     "zh-hant": "迴避性能",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 72,
@@ -581,7 +581,7 @@
     "jp": "回避距離ＵＰ",
     "zh-hans": "回避距离提升",
     "zh-hant": "迴避距離UP",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 73,
@@ -589,7 +589,7 @@
     "jp": "ガード性能",
     "zh-hans": "防御性能",
     "zh-hant": "防禦性能",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 74,
@@ -597,7 +597,7 @@
     "jp": "納刀術",
     "zh-hans": "纳刀术",
     "zh-hant": "收刀術",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 75,
@@ -605,7 +605,7 @@
     "jp": "広域化",
     "zh-hans": "广域化",
     "zh-hant": "廣域化",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 76,
@@ -613,7 +613,7 @@
     "jp": "アイテム使用強化",
     "zh-hans": "道具使用强化",
     "zh-hant": "道具使用強化",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 77,
@@ -621,7 +621,7 @@
     "jp": "満足感",
     "zh-hans": "满足感",
     "zh-hant": "滿足感",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 78,
@@ -629,7 +629,7 @@
     "jp": "早食い",
     "zh-hans": "快吃",
     "zh-hant": "快吃",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 79,
@@ -637,7 +637,7 @@
     "jp": "砥石使用高速化",
     "zh-hans": "砥石使用高速化",
     "zh-hant": "砥石使用高速化",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 80,
@@ -645,7 +645,7 @@
     "jp": "ボマー",
     "zh-hans": "炸弹客",
     "zh-hant": "炸彈客",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 81,
@@ -653,7 +653,7 @@
     "jp": "キノコ大好き",
     "zh-hans": "最爱蘑菇",
     "zh-hant": "最愛菇類",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 82,
@@ -661,7 +661,7 @@
     "jp": "釣り名人",
     "zh-hans": "钓鱼名人",
     "zh-hant": "釣魚名人",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 83,
@@ -669,7 +669,7 @@
     "jp": "肉焼き名人",
     "zh-hans": "烤肉名人",
     "zh-hant": "烤肉名人",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 84,
@@ -677,7 +677,7 @@
     "jp": "運搬の​​​​‍‍‏達人",
     "zh-hans": "搬运达人",
     "zh-hant": "搬運達人",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 85,
@@ -685,7 +685,7 @@
     "jp": "採集の​​​​‍‍‏達人",
     "zh-hans": "采集达人",
     "zh-hant": "採集達人",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 86,
@@ -693,7 +693,7 @@
     "jp": "ハニーハンター",
     "zh-hans": "蜂蜜猎人",
     "zh-hant": "蜂蜜獵人",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 87,
@@ -701,7 +701,7 @@
     "jp": "剥ぎ取り鉄人",
     "zh-hans": "剥取铁人",
     "zh-hant": "剝取鐵人",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 88,
@@ -709,7 +709,7 @@
     "jp": "精霊の​​​​‍‍‏加護",
     "zh-hans": "精灵加护",
     "zh-hant": "精靈加護",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 89,
@@ -717,7 +717,7 @@
     "jp": "オトモへの​​​​‍‍‏采配",
     "zh-hans": "指示随从",
     "zh-hant": "指示隨從",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 90,
@@ -725,7 +725,7 @@
     "jp": "植生学",
     "zh-hans": "植生学",
     "zh-hant": "植生學",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 91,
@@ -733,7 +733,7 @@
     "jp": "地質学",
     "zh-hans": "地质学",
     "zh-hant": "地質學",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 92,
@@ -741,7 +741,7 @@
     "jp": "渾身",
     "zh-hans": "精神抖擞",
     "zh-hant": "精神抖擻",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 93,
@@ -749,7 +749,7 @@
     "jp": "スリンガー装填数ＵＰ",
     "zh-hans": "投射器装填器UP",
     "zh-hant": "投射器裝填數UP",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 94,
@@ -757,7 +757,7 @@
     "jp": "潜伏",
     "zh-hans": "潜伏",
     "zh-hant": "潛伏",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 95,
@@ -765,7 +765,7 @@
     "jp": "ひるみ軽減",
     "zh-hans": "减轻胆怯",
     "zh-hant": "減輕膽怯",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 96,
@@ -773,7 +773,7 @@
     "jp": "導蟲反応距離ＵＰ",
     "zh-hans": "导虫反应距离提升",
     "zh-hant": "導蟲反應距離UP",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 97,
@@ -781,7 +781,7 @@
     "jp": "しゃがみ移動速度ＵＰ",
     "zh-hans": "蹲下移动速度提升",
     "zh-hant": "蹲下移動速度UP",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 98,
@@ -789,7 +789,7 @@
     "jp": "ジャンプ鉄人",
     "zh-hans": "跳跃铁人",
     "zh-hant": "跳躍鐵人",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 99,
@@ -797,7 +797,7 @@
     "jp": "環境利用の​​​​‍‍‏知識",
     "zh-hans": "环境利用知识",
     "zh-hant": "環境利用知識",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 100,
@@ -805,7 +805,7 @@
     "jp": "水場・深雪適応",
     "zh-hans": "适应水场·深雪",
     "zh-hant": "適應水場‧深雪",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 101,
@@ -813,7 +813,7 @@
     "jp": "クライマー",
     "zh-hans": "攀岩者",
     "zh-hant": "攀岩者",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 102,
@@ -821,7 +821,7 @@
     "jp": "閃光強化",
     "zh-hans": "闪光强化",
     "zh-hant": "閃光強化",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 103,
@@ -829,7 +829,7 @@
     "jp": "研究者",
     "zh-hans": "研究者",
     "zh-hant": "研究者",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 104,
@@ -837,7 +837,7 @@
     "jp": "昆虫標本の​​​​‍‍‏達人",
     "zh-hans": "昆虫标本达人",
     "zh-hant": "昆蟲標本達人",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 105,
@@ -845,7 +845,7 @@
     "jp": "瘴気耐性",
     "zh-hans": "瘴气耐性",
     "zh-hant": "瘴氣耐性",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 106,
@@ -853,7 +853,7 @@
     "jp": "追跡の​​​​‍‍‏達人",
     "zh-hans": "追踪达人",
     "zh-hant": "追蹤達人",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 107,
@@ -861,7 +861,7 @@
     "jp": "探索者の​​​​‍‍‏幸運",
     "zh-hans": "探索者之幸运",
     "zh-hant": "探索者之幸運",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 108,
@@ -869,7 +869,7 @@
     "jp": "感知",
     "zh-hans": "察觉",
     "zh-hant": "察覺",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 109,
@@ -877,7 +877,7 @@
     "jp": "整備",
     "zh-hans": "整备",
     "zh-hant": "整備",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 110,
@@ -885,7 +885,7 @@
     "jp": "滑走強化",
     "zh-hans": "滑走强化",
     "zh-hant": "滑走強化",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 111,
@@ -893,7 +893,7 @@
     "jp": "龍封力強化",
     "zh-hans": "龙封力强化",
     "zh-hant": "龍封力強化",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 112,
@@ -901,7 +901,7 @@
     "jp": "威嚇",
     "zh-hans": "威吓",
     "zh-hant": "威嚇",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 113,
@@ -909,7 +909,7 @@
     "jp": "蛮顎竜の​​​​‍‍‏力",
     "zh-hans": "蛮颚龙之力",
     "zh-hant": "蠻顎龍之力",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 114,
@@ -917,7 +917,7 @@
     "jp": "滅尽龍の​​​​‍‍‏飢餓",
     "zh-hans": "灭尽龙之饥饿",
     "zh-hant": "滅盡龍之飢餓",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 115,
@@ -925,7 +925,7 @@
     "jp": "屍套龍の​​​​‍‍‏命脈",
     "zh-hans": "尸套龙之命脉",
     "zh-hant": "屍套龍之命脈",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 116,
@@ -933,7 +933,7 @@
     "jp": "火竜の​​​​‍‍‏力",
     "zh-hans": "火龙之力",
     "zh-hant": "火龍之力",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 117,
@@ -941,7 +941,7 @@
     "jp": "角竜の​​​​‍‍‏力",
     "zh-hans": "角龙之力",
     "zh-hant": "角龍之力",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 118,
@@ -949,7 +949,7 @@
     "jp": "幻獣の​​​​‍‍‏恩恵",
     "zh-hans": "幻兽之恩惠",
     "zh-hant": "麒麟之恩惠",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 119,
@@ -957,7 +957,7 @@
     "jp": "桜火竜の​​​​‍‍‏奥義",
     "zh-hans": "樱火龙之奥秘",
     "zh-hant": "櫻火龍之奧秘",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 120,
@@ -965,7 +965,7 @@
     "jp": "蛮顎竜の​​​​‍‍‏闘志",
     "zh-hans": "蛮颚龙之斗志",
     "zh-hant": "蠻顎龍之鬥志",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 121,
@@ -973,7 +973,7 @@
     "jp": "火竜の​​​​‍‍‏奥義",
     "zh-hans": "火龙之奥秘",
     "zh-hant": "火龍之奧秘",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 122,
@@ -981,7 +981,7 @@
     "jp": "角竜の​​​​‍‍‏奥義",
     "zh-hans": "角龙之奥秘",
     "zh-hant": "角龍之奧秘",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 123,
@@ -989,7 +989,7 @@
     "jp": "幻獣の​​​​‍‍‏恩寵",
     "zh-hans": "幻兽之恩宠",
     "zh-hant": "麒麟之恩寵",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 124,
@@ -997,7 +997,7 @@
     "jp": "爆鎚竜の​​​​‍‍‏守護",
     "zh-hans": "爆锤龙之守护",
     "zh-hant": "爆鎚龍之守護",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 125,
@@ -1005,7 +1005,7 @@
     "jp": "爆鱗竜の​​​​‍‍‏守護",
     "zh-hans": "爆鳞龙之守护",
     "zh-hant": "爆鱗龍之守護",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 126,
@@ -1013,7 +1013,7 @@
     "jp": "炎王龍の​​​​‍‍‏武技",
     "zh-hans": "炎王龙之武技",
     "zh-hant": "炎王龍之武技",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 127,
@@ -1021,7 +1021,7 @@
     "jp": "鋼龍の​​​​‍‍‏飛翔",
     "zh-hans": "钢龙之飞翔",
     "zh-hant": "鋼龍之飛翔",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 128,
@@ -1029,7 +1029,7 @@
     "jp": "冥灯龍の​​​​‍‍‏神秘",
     "zh-hans": "冥灯龙之神秘",
     "zh-hant": "冥燈龍之神秘",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 129,
@@ -1037,7 +1037,7 @@
     "jp": "熔山龍の​​​​‍‍‏奥義",
     "zh-hans": "熔山龙之奥秘",
     "zh-hant": "熔山龍之奧秘",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 130,
@@ -1045,7 +1045,7 @@
     "jp": "ギルドの​​​​‍‍‏導き",
     "zh-hans": "公会之指引",
     "zh-hant": "公會之指引",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 131,
@@ -1053,15 +1053,15 @@
     "jp": "調査団の​​​​‍‍‏導き",
     "zh-hans": "调查团之指引",
     "zh-hant": "調查團之指引",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 132,
     "en": "Legiana Blessing",
     "jp": "風漂竜の​​​​‍‍‏恩恵",
-    "zh-hans": "风漂龙之恩宠",
+    "zh-hans": "风漂龙之恩惠",
     "zh-hant": "風漂龍之恩惠",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 133,
@@ -1069,7 +1069,7 @@
     "jp": "風漂竜の​​​​‍‍‏恩寵",
     "zh-hans": "风漂龙之恩宠",
     "zh-hant": "風漂龍之恩寵",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 134,
@@ -1077,7 +1077,7 @@
     "jp": "惨爪竜の​​​​‍‍‏力",
     "zh-hans": "惨爪龙之力",
     "zh-hant": "慘爪龍之力",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 135,
@@ -1085,7 +1085,7 @@
     "jp": "惨爪竜の​​​​‍‍‏奥義",
     "zh-hans": "惨爪龙之奥秘",
     "zh-hant": "慘爪龍之奧秘",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 136,
@@ -1093,7 +1093,7 @@
     "jp": "弓溜め段階解放",
     "zh-hans": "解放弓的蓄力阶段",
     "zh-hant": "解放弓的蓄力階段",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 137,
@@ -1101,7 +1101,7 @@
     "jp": "心眼／弾導強化",
     "zh-hans": "心眼／弹道强化",
     "zh-hant": "心眼／彈道強化",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 138,
@@ -1109,7 +1109,7 @@
     "jp": "ガード強化",
     "zh-hans": "防御强化",
     "zh-hant": "防禦強化",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 139,
@@ -1117,7 +1117,7 @@
     "jp": "剛刃研磨",
     "zh-hans": "刚刃研磨",
     "zh-hant": "剛刃研磨",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 140,
@@ -1125,7 +1125,7 @@
     "jp": "無属性強化",
     "zh-hans": "无属性强化",
     "zh-hant": "無屬性強化",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 141,
@@ -1133,7 +1133,7 @@
     "jp": "根性",
     "zh-hans": "毅力",
     "zh-hant": "毅力",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 142,
@@ -1141,7 +1141,7 @@
     "jp": "加速再生",
     "zh-hans": "加速再生",
     "zh-hant": "加速再生",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 143,
@@ -1149,7 +1149,7 @@
     "jp": "業物／弾丸節約",
     "zh-hans": "利刃／弹丸节约",
     "zh-hant": "利刃／彈丸節約",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 144,
@@ -1157,7 +1157,7 @@
     "jp": "炎妃龍の​​​​‍‍‏恩寵",
     "zh-hans": "炎妃龙之恩宠",
     "zh-hant": "炎妃龍之恩寵",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 145,
@@ -1165,7 +1165,7 @@
     "jp": "竜騎士の​​​​‍‍‏証",
     "zh-hans": "龙骑士之证",
     "zh-hant": "龍騎士之證",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 146,
@@ -1173,7 +1173,7 @@
     "jp": "会心撃【属性】",
     "zh-hans": "会心攻击【属性】",
     "zh-hant": "會心攻擊【屬性】",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 147,
@@ -1181,7 +1181,7 @@
     "jp": "会心撃【特殊】",
     "zh-hans": "会心攻击【特殊】",
     "zh-hant": "會心攻擊【特殊】",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 148,
@@ -1189,7 +1189,7 @@
     "jp": "ウィッチャーの​​​​‍‍‏心得",
     "zh-hans": "猎魔人的心得",
     "zh-hant": "狩魔獵人的心得",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 149,
@@ -1197,7 +1197,7 @@
     "jp": "アステラの​​​​‍‍‏祝福",
     "zh-hans": "星辰的祝福",
     "zh-hant": "星辰的祝福",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 150,
@@ -1205,7 +1205,7 @@
     "jp": "雷狼竜の​​​​‍‍‏真髄",
     "zh-hans": "雷狼龙的真髓",
     "zh-hant": "雷狼龍的真髓",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 151,
@@ -1213,7 +1213,7 @@
     "jp": "轟竜の​​​​‍‍‏真髄",
     "zh-hans": "轰龙的真髓",
     "zh-hant": "轟龍的真髓",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 152,
@@ -1221,7 +1221,7 @@
     "jp": "迅竜の​​​​‍‍‏真髄",
     "zh-hans": "迅龙的真髓",
     "zh-hant": "迅龍的真髓",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 153,
@@ -1229,7 +1229,7 @@
     "jp": "砕竜の​​​​‍‍‏真髄",
     "zh-hans": "碎龙的真髓",
     "zh-hant": "碎龍的真髓",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 154,
@@ -1237,7 +1237,7 @@
     "jp": "斬竜の​​​​‍‍‏真髄",
     "zh-hans": "斩龙的真髓",
     "zh-hant": "斬龍的真髓",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 155,
@@ -1245,7 +1245,7 @@
     "jp": "銀火竜の​​​​‍‍‏真髄",
     "zh-hans": "银火龙的真髓",
     "zh-hant": "銀火龍的真髓",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 156,
@@ -1253,7 +1253,7 @@
     "jp": "金火竜の​​​​‍‍‏真髄",
     "zh-hans": "金火龙的真髓",
     "zh-hant": "金火龍的真髓",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 157,
@@ -1261,7 +1261,7 @@
     "jp": "地啼龍の​​​​‍‍‏神秘",
     "zh-hans": "天地煌啼龙的神秘",
     "zh-hant": "天地煌啼龍的神秘",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 158,
@@ -1269,7 +1269,7 @@
     "jp": "溟龍の​​​​‍‍‏神秘",
     "zh-hans": "溟波龙的神秘",
     "zh-hant": "溟波龍的神秘",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 159,
@@ -1277,7 +1277,7 @@
     "jp": "冰龍の​​​​‍‍‏神秘",
     "zh-hans": "冰呪龙的神秘",
     "zh-hant": "冰呪龍的神秘",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 160,
@@ -1285,7 +1285,7 @@
     "jp": "太古の​​​​‍‍‏神秘",
     "zh-hans": "太古的神秘",
     "zh-hant": "太古的神秘",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 161,
@@ -1293,7 +1293,7 @@
     "jp": "調査団の​​​​‍‍‏錬金術",
     "zh-hans": "调查团的炼金术",
     "zh-hant": "調查團的鍊金術",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 162,
@@ -1301,7 +1301,7 @@
     "jp": "教官の​​​​‍‍‏導き",
     "zh-hans": "教官的引导",
     "zh-hant": "教官的引導",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 163,
@@ -1309,7 +1309,7 @@
     "jp": "蛮顎竜の​​​​‍‍‏覇気",
     "zh-hans": "蛮颚龙的霸气",
     "zh-hant": "蠻顎龍的霸氣",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 164,
@@ -1317,7 +1317,7 @@
     "jp": "雌火竜の​​​​‍‍‏真髄",
     "zh-hans": "雌火龙的真髓",
     "zh-hant": "雌火龍的真髓",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 165,
@@ -1325,7 +1325,7 @@
     "jp": "陽動攻撃",
     "zh-hans": "佯动攻击",
     "zh-hant": "佯動攻擊",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 166,
@@ -1333,7 +1333,7 @@
     "jp": "攻めの​​​​‍‍‏守勢",
     "zh-hans": "攻击守势",
     "zh-hant": "攻擊守勢",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 167,
@@ -1341,7 +1341,7 @@
     "jp": "災禍転福",
     "zh-hans": "转祸为福",
     "zh-hant": "轉禍為福",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 168,
@@ -1349,7 +1349,7 @@
     "jp": "受け身術",
     "zh-hans": "受身术",
     "zh-hant": "受身術",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 169,
@@ -1357,7 +1357,7 @@
     "jp": "氷牙竜の​​​​‍‍‏秘技",
     "zh-hans": "冰牙龙的秘技",
     "zh-hant": "冰牙龍的秘技",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 170,
@@ -1365,7 +1365,7 @@
     "jp": "火竜の​​​​‍‍‏真髄",
     "zh-hans": "火龙的真髓",
     "zh-hant": "火龍的真髓",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 171,
@@ -1373,7 +1373,7 @@
     "jp": "角竜の​​​​‍‍‏覇気",
     "zh-hans": "角龙的霸气",
     "zh-hant": "角龍的霸氣",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 172,
@@ -1381,7 +1381,7 @@
     "jp": "風漂竜の​​​​‍‍‏覇気",
     "zh-hans": "风漂龙的霸气",
     "zh-hant": "風漂龍的霸氣",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 173,
@@ -1389,7 +1389,7 @@
     "jp": "惨爪竜の​​​​‍‍‏真髄",
     "zh-hans": "惨爪龙的真髓",
     "zh-hant": "慘爪龍的真髓",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 174,
@@ -1397,7 +1397,7 @@
     "jp": "爆鎚竜の​​​​‍‍‏覇気",
     "zh-hans": "爆锤龙的霸气",
     "zh-hant": "爆鎚龍的霸氣",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 175,
@@ -1405,7 +1405,7 @@
     "jp": "爆鱗竜の​​​​‍‍‏覇気",
     "zh-hans": "爆鳞龙的霸气",
     "zh-hant": "爆鱗龍的霸氣",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 176,
@@ -1413,7 +1413,7 @@
     "jp": "恐暴竜の​​​​‍‍‏真髄",
     "zh-hans": "恐暴龙的真髓",
     "zh-hant": "恐暴龍的真髓",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 177,
@@ -1421,7 +1421,7 @@
     "jp": "屍套龍の​​​​‍‍‏霊脈",
     "zh-hans": "尸套龙的灵脉",
     "zh-hant": "屍套龍的靈脈",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 178,
@@ -1429,7 +1429,7 @@
     "jp": "幻獣の​​​​‍‍‏神秘",
     "zh-hans": "幻兽的神秘",
     "zh-hant": "幻獸的神秘",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 179,
@@ -1437,7 +1437,7 @@
     "jp": "ギルドの​​​​‍‍‏見識",
     "zh-hans": "公会的见识",
     "zh-hant": "公會的見識",
-    "maxLevel": 0
+    "maxLevel": 4
   },
   {
     "id": 180,
@@ -1445,7 +1445,7 @@
     "jp": "熔山龍の​​​​‍‍‏真髄",
     "zh-hans": "熔山龙的真髓",
     "zh-hant": "熔山龍的真髓",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 181,
@@ -1453,7 +1453,7 @@
     "jp": "炎妃龍の​​​​‍‍‏真髄",
     "zh-hans": "炎妃龙的真髓",
     "zh-hant": "炎妃龍的真髓",
-    "maxLevel": 0
+    "maxLevel": 3
   },
   {
     "id": 182,
@@ -1461,7 +1461,7 @@
     "jp": "滅尽龍の​​​​‍‍‏覇気",
     "zh-hans": "灭尽龙的霸气",
     "zh-hant": "滅盡龍的霸氣",
-    "maxLevel": 0
+    "maxLevel": 2
   },
   {
     "id": 183,
@@ -1469,7 +1469,7 @@
     "jp": "鈍器使い",
     "zh-hans": "钝器能手",
     "zh-hant": "鈍器能手",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 184,
@@ -1477,7 +1477,7 @@
     "jp": "奮起",
     "zh-hans": "振奋",
     "zh-hant": "振奮",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 185,
@@ -1485,7 +1485,7 @@
     "jp": "寒さ耐性",
     "zh-hans": "寒冷耐性",
     "zh-hant": "寒冷耐性",
-    "maxLevel": 0
+    "maxLevel": 1
   },
   {
     "id": 186,
@@ -1493,7 +1493,7 @@
     "jp": "万福の​​​​‍‍‏祝福",
     "zh-hans": "万福的祝福",
     "zh-hant": "萬福的祝福",
-    "maxLevel": 0
+    "maxLevel": 5
   },
   {
     "id": 187,
@@ -1501,6 +1501,6 @@
     "jp": "大感謝の​​​​‍‍‏祝福",
     "zh-hans": "大感谢的祝福",
     "zh-hant": "大感謝的祝福",
-    "maxLevel": 0
+    "maxLevel": 5
   }
 ]
